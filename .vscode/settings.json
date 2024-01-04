@@ -1,0 +1,31 @@
+{
+    "dotnet.implementType.propertyGenerationBehavior": "preferAutoProperties",
+    "csharp.inlayHints.enableInlayHintsForImplicitObjectCreation": true,
+    "csharp.inlayHints.enableInlayHintsForImplicitVariableTypes": true,
+    "csharp.inlayHints.enableInlayHintsForLambdaParameterTypes": true,
+    "csharp.inlayHints.enableInlayHintsForTypes": true,
+    "dotnet.inlayHints.enableInlayHintsForIndexerParameters": true,
+    "dotnet.inlayHints.enableInlayHintsForLiteralParameters": true,
+    "dotnet.inlayHints.enableInlayHintsForObjectCreationParameters": true,
+    "dotnet.inlayHints.enableInlayHintsForOtherParameters": true,
+    "dotnet.inlayHints.enableInlayHintsForParameters": true,
+    "dotnet.inlayHints.suppressInlayHintsForParametersThatDifferOnlyBySuffix": false,
+    "dotnet.inlayHints.suppressInlayHintsForParametersThatMatchArgumentName": false,
+    "mssql.shortcuts": {
+        "_comment": "Short cuts must follow the format (ctrl)+(shift)+(alt)+[key]",
+        "event.toggleResultPane": "ctrl+alt+R",
+        "event.focusResultsGrid": "ctrl+alt+G",
+        "event.toggleMessagePane": "ctrl+alt+Y",
+        "event.prevGrid": "ctrl+up",
+        "event.nextGrid": "ctrl+down",
+        "event.copySelection": "ctrl+C",
+        "event.copyWithHeaders": "",
+        "event.copyAllHeaders": "",
+        "event.maximizeGrid": "",
+        "event.selectAll": "ctrl+A",
+        "event.saveAsJSON": "",
+        "event.saveAsCSV": "",
+        "event.saveAsExcel": "",
+        "event.changeColumnWidth": "ctrl+alt+S"
+    }
+}
